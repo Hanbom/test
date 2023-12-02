@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("hi");
 		String msg = "";
 		int i = 0;
+		int j = 0;
 
 	}
 
