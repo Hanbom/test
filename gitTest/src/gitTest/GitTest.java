@@ -3,11 +3,7 @@ package gitTest;
 public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.println("hi");
-		String msg = "";
-		int i = 0;
-		int j = 0;
-		msg = "test";
+		String msg = "git test";
 	}
 
 }
